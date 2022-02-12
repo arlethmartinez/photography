@@ -1,0 +1,31 @@
+h1 {
+  color: rgba(88, 87, 87, 0.993);
+  font-size: 85px;
+  margin: 0px;
+}
+h2 {
+  color: rgba(88, 87, 87, 0.993);
+  text-decoration: underline;
+}
+h3 {
+  color: rgb(121, 117, 117);
+  font-size: 35px;
+  text-decoration: none;
+}
+p {
+  font-family: serif;
+  font-size: 20px;
+  text-decoration: none;
+}
+a {
+  color: black;
+  text-decoration: underline;
+}
+a:hover {
+  color: #000;
+  text-decoration: underline;
+}
+p {
+  color: rgb(121, 117, 117);
+  text-decoration: none;
+}
